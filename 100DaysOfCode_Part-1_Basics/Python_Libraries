@@ -1,0 +1,7 @@
+Python Libraries!
+
+Turtle graphics - Turtle is a pre-installed Python library that enables users to create pictures and shapes by providing them with a virtual canvas.
+Pandas - Provides fast and flexible data structures that it easy and intuitive to work with structured and time series data.
+Tkinter - Provides a simple way to create GUI applications in Python.
+Boto3 - Boto3 is the official AWS SDK for Python, providing an easy-to-use interface for interacting with various AWS services.
+NumPy - Offers powerful array operations and numerical computations for Python.
